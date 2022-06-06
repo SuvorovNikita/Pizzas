@@ -3,6 +3,7 @@ import React, { useState } from 'react';
 function Sort() {
   const [open, setOpen] = useState(false);
   const [selected, setSelected] = useState(0);
+  console.log(open);
 
   const list = ['популярности', 'цене', 'алфавиту'];
   const sortName = list[selected];
