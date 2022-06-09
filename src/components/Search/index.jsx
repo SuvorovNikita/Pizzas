@@ -57,7 +57,7 @@ const Search = () => {
           <title />
           <desc />
           <defs />
-          <g fill="none" fill-rule="evenodd" id="Page-1" stroke="none" stroke-width="1">
+          <g fill="none" fillRule="evenodd" id="Page-1" stroke="none" strokeWidth="1">
             <g fill="#000000" id="Core" transform="translate(-341.000000, -89.000000)">
               <g id="close" transform="translate(341.000000, 89.000000)">
                 <path
